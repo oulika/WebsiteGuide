@@ -94,6 +94,3 @@ password：admin@1234
 
 /usr/bin/docker restart 63dd67259f9d
 
-### 联系作者
-
-QQ：1157861072
